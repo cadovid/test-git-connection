@@ -1,2 +1,1 @@
-# test-git-connection
-Testing purposes for connection
+Testing local connection.
